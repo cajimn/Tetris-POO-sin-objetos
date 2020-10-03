@@ -1,5 +1,5 @@
 # :gem:TETRIS:gem:
-Autor: Carlos Mario Jiménez Novoa. [![cajimn](https://github.com/cajimn)
+Autor: Carlos Mario Jiménez Novoa. [![cajimn](https://cldup.com/dTxpPi9lDf.thumb.png)](https://github.com/cajimn)
 
 ## Cómo está hecho?
 La base del juego fue el uso de bitwise para crear las figuras y verificar las posiciones, lo cual fue un método que agilizó la funcionalidad del tetris, además, el juego contiene unos marcadores con los cuales podrás medir tu habilidad del juego, implementando niveles de acuerdo al puntaje que vayas adquiriendo, el cual qumenta la velocidad de caida del tetromino. La eliminación de filas fue implementada gracias a que utilicé una matriz dinámica en la que gusrdaba las figuras y fue más fácil quitar las filas llenas
