@@ -1,5 +1,5 @@
 # :gem:TETRIS:gem:
-Autor: Carlos Mario Jiménez Novoa. [cajimn]](https://github.com/cajimn)
+Autor: Carlos Mario Jiménez Novoa. [cajimn](https://github.com/cajimn)
 
 
 
@@ -8,21 +8,21 @@ La base del juego fue el uso de bitwise para crear las figuras y verificar las p
 
 ## :hear_no_evil: instrucciones :hear_no_evil:
 
-Primero deberás oprimir la tecla ENTER para empezar el juego 
+  Primero deberás oprimir la tecla ENTER para empezar el juego 
 
 -------------------------------------
-Te moverás de la siguiente manera:
+  Te moverás de la siguiente manera:
 
-- A la izquierda:arrow_backward: = LEFT:arrow_backward:
-- A la derecha = RIGHT:arrow_forward:
-- Hacia abajo:arrow_down_small: = DOWN:arrow_down_small:
-- Bajar la ficha rápido:arrow_double_down: = SPACE:arrow_up_small:
-- Rotar la figura:arrows_counterclockwise: = UP
+  > - A la izquierda:arrow_backward: = LEFT:arrow_backward:
+  > - A la derecha:arrow_forward: = RIGHT:arrow_forward:
+  > - Hacia abajo:arrow_down_small: = DOWN:arrow_down_small:
+  > - Bajar la ficha rápido:arrow_double_down: = SPACE
+  > - Rotar la figura:arrows_counterclockwise: = UP:arrow_up_small:
 -------------------------------------
-Si pierdes podrás ver tu puntaje final 
+  Si pierdes podrás ver tu puntaje final 
 -------------------------------------
 
 -------------------------------------
-Podrás reintentarlo y mejorar tu puntaje pulsando la tecla ENTER
+  Podrás reintentarlo y mejorar tu puntaje pulsando la tecla ENTER
 -------------------------------------
 
