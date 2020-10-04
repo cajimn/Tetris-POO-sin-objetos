@@ -26,7 +26,7 @@ La base del juego fue el uso de bitwise para crear las figuras y verificar las c
   > - A la izquierda:arrow_backward: = LEFT:arrow_backward:
   > - A la derecha:arrow_forward: = RIGHT:arrow_forward:
   > - Hacia abajo:arrow_down_small: = DOWN:arrow_down_small:
-  > - Bajar la ficha rápido:arrow_double_down: = SPACE
+  > - Bajar rápido:arrow_double_down: = SPACE
   > - Rotar la figura:arrows_counterclockwise: = UP:arrow_up_small:
 
 >  Si pierdes podrás ver tu puntaje final 
